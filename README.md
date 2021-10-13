@@ -20,6 +20,6 @@
 
 | 资料                                                         | 下载                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **动手学深度学习**，[视频讲解](https://www.bilibili.com/video/BV1GA411L7Pw) 本书旨在向读者交付有关深度学习的交互式学习体验。书中不仅阐述深度学习的算法原理，还演示它们的实现和运行。每一节都是一个可以下载并运行的 Jupyter记事本，它将文字、公式、图像、代码和运行结果结合在了一起。 | [网盘链接](https://pan.baidu.com/s/1GhmWhV7z_TQjP4BBoOV-4g) 密码: fwwe |
-| **南瓜书：周志华机器学习西瓜书公式推导解析**，[视频讲解](https://www.bilibili.com/video/BV1Uf4y1c7rc)周志华老师的「机器学习」西瓜书相应的公式推导和解析，对推导公式头疼的同学，疗效显著。 | [网盘链接](https://pan.baidu.com/s/1_ijVWFq-EsY-Ffvt9EgdzA) 密码: glf9 |
+| **动手学深度学习**， 本书旨在向读者交付有关深度学习的交互式学习体验。书中不仅阐述深度学习的算法原理，还演示它们的实现和运行。每一节都是一个可以下载并运行的 Jupyter记事本，它将文字、公式、图像、代码和运行结果结合在了一起。[视频介绍](https://www.bilibili.com/video/BV1GA411L7Pw) | [网盘链接](https://pan.baidu.com/s/1GhmWhV7z_TQjP4BBoOV-4g) 密码: fwwe |
+| **南瓜书：周志华机器学习西瓜书公式推导解析**，周志华老师的「机器学习」西瓜书相应的公式推导和解析，对推导公式头疼的同学，疗效显著。[视频介绍](https://www.bilibili.com/video/BV1Uf4y1c7rc) | [网盘链接](https://pan.baidu.com/s/1_ijVWFq-EsY-Ffvt9EgdzA) 密码: glf9 |
 | **PRML，Pattern Recognition and Machine Learning**，这本书可以说是机器学习的经典学习之作。以前在上机器学习课的时候，很多细节还没联系到，结果在读论文中就显得捉襟见肘。本书能够理清楚这本ML的脉络，为学习机器学习的人打下扎实的基础。 | [网盘链接](https://pan.baidu.com/s/1VeiliQi1RKBBRvn9dzvlDA) 密码: uh4r |
